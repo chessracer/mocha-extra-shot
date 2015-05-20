@@ -10,7 +10,7 @@
     "url": "https://github.com/lennym/mocha-extra-shot"
   },
   "peerDependencies": {
-    "mocha": "^1.20.1"
+    "mocha": ">1.20.1"
   },
   "dependencies": {
     "ms": "^0.6.2",
